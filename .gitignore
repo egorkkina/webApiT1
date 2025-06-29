@@ -1,0 +1,26 @@
+﻿# Rider IDE
+.idea/
+*.user
+*.suo
+*.sln.iml
+
+# Build artifacts
+bin/
+obj/
+*.pdb
+*.cache
+*.dll
+*.exe
+
+# NuGet
+packages/
+.nuget/
+*.nupkg
+
+# Local development files
+appsettings.Development.json
+*.db
+*.log
+
+# VS Code
+.vscode/
